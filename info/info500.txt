@@ -1,0 +1,4 @@
+Matrix A size: 500x500
+Matrix B size: 500x500
+Result size: 500x500
+Execution time (sec): 0.00056812
